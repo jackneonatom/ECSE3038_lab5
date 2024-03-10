@@ -22,4 +22,8 @@ Reason for Writing the Code:
 The code was created to demonstrate the integration of Arduino with WiFi connectivity, HTTP requests, JSON parsing, and the display of retrieved data on an I2C LCD. It serves as a practical example for IoT projects, data visualization applications, and educational purposes, showcasing how to fetch, process, and display data from a web API.
 
 Riddle:
-Why did the scarecrow win an award? 
+-Why did the scarecrow win an award? 
+-My body is entirely blue
+I am the taller of the two
+My brother is a fighting type too
+Who am I?
